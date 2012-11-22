@@ -1,0 +1,4 @@
+{
+  "main": "com.rtforce.template.MustacheParsing",
+  "worker": true
+}
